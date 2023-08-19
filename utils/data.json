@@ -1,0 +1,96 @@
+{
+    "questions": [
+      {
+        "content": "Qual'e' la capitale d'Italia ?",
+        "answers": [
+          {"key": "A", "content": "Roma"},
+          {"key": "B", "content": "Milano"},
+          {"key": "C", "content": "Torino"},
+          {"key": "D", "content": "Palermo"}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "content": "Quanto è alto l'Everest ?",
+        "answers": [
+          {"key": "A", "content": "9000mt"},
+          {"key": "B", "content": "8849mt"},
+          {"key": "C", "content": "8200mt"},
+          {"key": "D", "content": "7650mt"}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "content": "Quante province ha la Sicilia ?",
+        "answers": [
+          {"key": "A", "content": "7"},
+          {"key": "B", "content": "8"},
+          {"key": "C", "content": "10"},
+          {"key": "D", "content": "9"}
+        ],
+        "correctAnswer": "D"
+      },
+      {
+        "content": "Quale squadra ha vinto più Champions League ?",
+        "answers": [
+          {"key": "A", "content": "Juventus"},
+          {"key": "B", "content": "Barcellona"},
+          {"key": "C", "content": "Real Madrid"},
+          {"key": "D", "content": "Liverpool"}
+        ],
+        "correctAnswer": "C"
+      },
+      {
+        "content": "Chi è il miglior rugbista del campionato italiano ?",
+        "answers": [
+          {"key": "A", "content": "Carlo Rosario Leonardi"},
+          {"key": "B", "content": "Sergio Parisse"},
+          {"key": "C", "content": "Cherif Traore"},
+          {"key": "D", "content": "Tommaso Allan"}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "content": "Chi Ha fondato Apple Computer Inc. ?",
+        "answers": [
+          {"key": "A", "content": "Jeff Bezos"},
+          {"key": "B", "content": "Steve Jobs"},
+          {"key": "C", "content": "Paul Allen"},
+          {"key": "D", "content": "Elon Musk"}
+        ],
+        "correctAnswer": "B"
+      },
+      {
+        "content": "Quale stato confina alla Moldavia ?",
+        "answers": [
+          {"key": "A", "content": "Ucraina"},
+          {"key": "B", "content": "Svezia"},
+          {"key": "C", "content": "Italia"},
+          {"key": "D", "content": "Germania"}
+        ],
+        "correctAnswer": "A"
+      },
+      {
+        "content": "Quanti campionati costruttori ha vinto la Ferrari in F1 ?",
+        "answers": [
+          {"key": "A", "content": "18"},
+          {"key": "B", "content": "13"},
+          {"key": "C", "content": "14"},
+          {"key": "D", "content": "16"}
+        ],
+        "correctAnswer": "D"
+      },
+      {
+        "content": "Quanti abitanti fa Catania ?",
+        "answers": [
+          {"key": "A", "content": "298.000"},
+          {"key": "B", "content": "300.000"},
+          {"key": "C", "content": "313.000"},
+          {"key": "D", "content": "295.000"}
+        ],
+        "correctAnswer": "C"
+      }
+
+
+    ]
+  }
